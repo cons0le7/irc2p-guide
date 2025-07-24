@@ -26,7 +26,7 @@
   /set real_name <name> 
   /set user_name <name> 
   ```
-- Disable all DCC and CTCPS. This prevents users in servers from making requests to your client directly which can potentially reveal compromising information & create attack surface.
+- Ignore all DCC and CTCPS requests. This prevents users in servers from making requests to your client directly which can potentially reveal compromising information & create attack surface.
   ```
   /ignore * DCC CTCPS
   ```
