@@ -1,4 +1,5 @@
-# irc2p-guide
+# Setting up IRC over I2P with IRSSI 
+## I2P setup
 - Ensure Java is installed.
 - [Download latest version of i2p](https://geti2p.net/en/download)
 - cd to downloaded file and run
@@ -15,3 +16,8 @@
 - After starting, go to your browsers network settings and configure proxy manually. HTTP and HTTPS should both be set to `127.0.0.1:4444` You can find browser specific instructions on the i2p website [here](https://geti2p.net/en/about/browser-config)
 - Access router console at `127.0.0.1:7657/home`
 - You will need to wait for connection to set up. Wait until the status on the lower left goes green. This can take 10+ minutes. 
+- After status goes green, try clicking one of the links to take you to an eepsite. If it loads, your i2p service is good to go!
+
+## Irc setup
+- Open `irssi` in terminal.
+- 
