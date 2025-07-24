@@ -45,7 +45,7 @@
   ```
   /connect irc2p 
   ```
-- Once connected you can join irc2p chatroom with
+- Once connected you can join irc2p channel with
   ```
   /join #irc2p
   ```
