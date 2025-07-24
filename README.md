@@ -6,10 +6,11 @@
   java -jar i2pinstall_2.9.0.jar -console
   ```
   replacing `i2pinstall_2.9.0.jar` with actual file name.
-- Go thru installation prompts
+- Go through installation prompts
 - Run
   ```
   i2prouter start 
   ```
   If this doesn't work, cd to extracted .jar directory and run execute directly with start as and argument. ex: `bash i2prouter start`
+- After starting, go to your browsers network settings and configure proxy manually. You can find browser specific instructions on the i2p website [here](https://geti2p.net/en/about/browser-config)
   
