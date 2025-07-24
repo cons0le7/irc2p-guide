@@ -22,6 +22,8 @@
 - You will need to wait for connection to set up. Keep an eye on the status indicator towards the lower left. This can take 10+ minutes. 
 - After status goes green, try clicking one of the links to take you to an eepsite. If it loads, your i2p service is good to go!
 
+![Image](https://github.com/user-attachments/assets/63dca2aa-9651-41dc-8a0f-9bec53aa1390)
+
 ## IRC setup
 - Open `irssi` in terminal.
 - Set your name variables. Do this for OPSEC as irssi will use your systems user name by default potentially compromising anonymnity. 
