@@ -1,4 +1,5 @@
 # Setting up IRC over I2P with IRSSI 
+![Image](https://github.com/user-attachments/assets/d75e8e0e-49ab-4a36-828f-e7c7d510036d)
 ## I2P setup
 - Ensure Java is installed.
 - [Download latest version of i2p](https://geti2p.net/en/download)
