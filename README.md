@@ -1,2 +1,4 @@
 # irc2p-guide
-Irc2p setup guide for irssi. 
+
+- [Download latest version of i2p](https://geti2p.net/en/download)]
+- 
