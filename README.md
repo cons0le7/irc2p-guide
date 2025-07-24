@@ -30,3 +30,22 @@
   ```
   /ignore * DCC CTCPS
   ```
+- Add network
+  ```
+  /network add irc2p 
+  ```
+- Add server
+  ```
+  /server add -network irc2p -disallow _starttls 127.0.0.1 6668 
+  ```
+> [!Warning]
+> Line to add server MUST contain `-disallow_starttls` flag! This is one of the main issues that prevents users from accessing irc2p!
+
+- After network and server are set up, you can connect with
+  ```
+  /connect irc2p 
+  ```
+- Once connected you can join irc2p chatroom with
+```
+/join #irc2p
+```
