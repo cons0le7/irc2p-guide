@@ -8,8 +8,8 @@
   java -jar i2pinstall_2.9.0.jar -console
   ```
   replacing `i2pinstall_2.9.0.jar` with actual file name.
-- Go through installation prompts
-- Run
+- Go through installation prompts.
+- Run:
   ```
   i2prouter start 
   ```
