@@ -62,3 +62,8 @@
   ```
   /join #irc2p
   ```
+>[!Tip]
+>You can install [Firejail](https://github.com/netblue30/firejail) and open Irssi within it for an additional layer of security.
+>```
+>firejail irssi
+>```
