@@ -18,7 +18,7 @@
 
 ![Image](https://github.com/user-attachments/assets/ae2a7384-fb02-48c7-9a57-419a9b3ad645)
 
-- Access router console at
+- Access router console at:
   ```
   127.0.0.1:7657/home
   ```
