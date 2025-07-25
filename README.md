@@ -13,7 +13,7 @@
   ```
   i2prouter start 
   ```
-  If this doesn't work, cd to extracted .jar directory and execute directly with start as argument. ex: `bash i2prouter start`
+  If this doesn't work, cd to extracted .jar directory and execute directly with `start` as argument. ex: `bash i2prouter start`
 - After starting, go to your browsers network settings and configure proxy manually. HTTP and HTTPS should both be set to `127.0.0.1:4444` You can find browser specific instructions on the i2p website [here](https://geti2p.net/en/about/browser-config)
 
 ![Image](https://github.com/user-attachments/assets/ae2a7384-fb02-48c7-9a57-419a9b3ad645)
